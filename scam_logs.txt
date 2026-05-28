@@ -1,0 +1,76 @@
+[2026-05-08 12:24:24.234297] SCAM DETECTED
+Message: salary
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:24:44.628221] SCAM DETECTED
+Message: success
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:24:56.571009] SCAM DETECTED
+Message: yuvraj
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:25:14.280588] SCAM DETECTED
+Message: sex
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:25:40.366619] SCAM DETECTED
+Message: pay traninng fees
+Confidence: 75.86%
+--------------------------------------------------
+[2026-05-08 12:26:00.578735] SCAM DETECTED
+Message: laoptop
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:26:14.859169] SCAM DETECTED
+Message: 7 cgpa
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:26:22.437868] SCAM DETECTED
+Message: YOU ARE SELECTED
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:26:31.491341] SCAM DETECTED
+Message: SCAM
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:26:45.958783] SCAM DETECTED
+Message: HIGH MONEY
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:27:17.945168] SCAM DETECTED
+Message: APKI JOB PAKKI HAI
+Confidence: 69.96%
+--------------------------------------------------
+[2026-05-08 12:27:27.989959] SCAM DETECTED
+Message: ONLINE JOB
+Confidence: 69.96%
+--------------------------------------------------
+[2026-05-08 12:28:18.613269] SCAM DETECTED
+Message: WIPRO OFF CAMPUS HIRING
+Confidence: 58.52%
+--------------------------------------------------
+[2026-05-08 12:29:26.794009] SCAM DETECTED
+Message: WIPRO OFF CAMPUS HIRING
+Confidence: 58.52%
+--------------------------------------------------
+[2026-05-08 12:36:06.760375] SCAM DETECTED
+Message: mba prefered
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:36:49.648240] SCAM DETECTED
+Message: optical backgroud prefered
+Confidence: 62.59%
+--------------------------------------------------
+[2026-05-08 12:43:48.839532] SCAM DETECTED
+Message: piaf fees
+Confidence: 64.63%
+--------------------------------------------------
+[2026-05-08 12:50:50.126549] SCAM DETECTED
+Message: hiring is now available you can earn upto 5000 rupees per day
+Confidence: 60.12%
+--------------------------------------------------
+[2026-05-08 12:54:27.211437] SCAM DETECTED
+Message: urgent hiring
+Confidence: 50.28%
+--------------------------------------------------
