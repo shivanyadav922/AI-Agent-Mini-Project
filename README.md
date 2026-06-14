@@ -36,7 +36,7 @@ This is a **collaborative team project**. Both team members contributed to the d
 | Contributor | GitHub Profile | Role |
 |---|---|---|
 | Yuvraj Singh Chouhan | [@Yuvraj0772](https://github.com/Yuvraj0772) | ML Model, Data Pipeline, Training Script |
-| Shivanya | [@shivanyadav922](https://github.com/shivanyadav922) | Agent CLI, Keyword Engine, Integration & Testing |
+| Shivan Singh Yadav | [@shivanyadav922](https://github.com/shivanyadav922) | Agent CLI, Keyword Engine, Integration & Testing |
 
 > 🔗 **Original Repository:** [https://github.com/Yuvraj0772/AI-Agent](https://github.com/Yuvraj0772/AI-Agent)
 
@@ -188,7 +188,7 @@ The model is trained on a labeled dataset of Indian job postings:
 
 ## 🤝 Acknowledgements
 
-- Developed as a college mini-project by **Yuvraj Singh Chouhan** and **Shivanya**
+- Developed as a college mini-project by **Yuvraj Singh Chouhan** and **Shivan Singh Yadav**
 - Inspired by real-world job fraud cases targeting Indian youth
 - Dataset curated from publicly available scam job message samples
 
@@ -199,5 +199,5 @@ The model is trained on a labeled dataset of Indian job postings:
 > **Project:** AI Agent — Fake Job Detection System  
 > **Type:** Mini Project  
 > **Domain:** Artificial Intelligence / Cybersecurity  
-> **Team:** Yuvraj Singh Chouhan & Shivanya  
+> **Team:** Yuvraj Singh Chouhan & Shivan Singh Yadav  
 > **Repository:** [https://github.com/shivanyadav922/AI-Agent-Mini-Project](https://github.com/shivanyadav922/AI-Agent-Mini-Project)
